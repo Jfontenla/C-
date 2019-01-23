@@ -1,4 +1,6 @@
 #KEYWORDS C#
+
+|---------|---------|---------|---------|---------|
 | abstract | do | in | protected | true |
 | as | double | int | public | try |
 | base | else | interface | readonly | typeof | 
@@ -17,6 +19,8 @@
 | delegate | implicit | private | throw | |
 
 # CONTEXTUAL KEYWORDS
+
+|---------|---------|---------|---------|---------|
 | add | dynamic | in | ordery | var |
 | ascending | equals | into | partial | when |
 | async | from | join | remove | where |

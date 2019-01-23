@@ -1,5 +1,6 @@
 #KEYWORDS C#
 
+| KEYWORDS | KEYWORDS | KEYWORDS | KEYWORDS | KEYWORDS |
 |---------|---------|---------|---------|---------|
 | abstract | do | in | protected | true |
 | as | double | int | public | try |
@@ -20,6 +21,7 @@
 
 # CONTEXTUAL KEYWORDS
 
+| KEYWORDS | KEYWORDS | KEYWORDS | KEYWORDS | KEYWORDS |
 |---------|---------|---------|---------|---------|
 | add | dynamic | in | ordery | var |
 | ascending | equals | into | partial | when |

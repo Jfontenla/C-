@@ -7,6 +7,13 @@ namespace EjerciciosCSharp
     {
         static void Main(string[] args)
         {
+            //InvertirNumero();
+            LibreriaMath.StartLibreriaMath();
+
+        }
+
+        private static void InvertirNumero()
+        {
             Console.WriteLine("Escribe un numero de N cifras");
             var inputNumber = Console.ReadLine();
             var result = InversionNumbersWithStrings(inputNumber);

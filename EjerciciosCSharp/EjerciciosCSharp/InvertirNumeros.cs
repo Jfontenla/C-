@@ -1,15 +1,19 @@
 ﻿using System;
+using System.Linq;
 
-namespace InvertirNumero2Cifras
+namespace EjerciciosCSharp
 {
-    public class InvertirNumero2Cifras
+    public class InvertirNumeros
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Escribe un numero de 2 cifras");
+            Console.WriteLine("Escribe un numero de N cifras");
             var inputNumber = Console.ReadLine();
             var result = InversionNumbersWithStrings(inputNumber);
             Console.WriteLine($"El resultado inverso de {inputNumber} es {result}");
+            Console.ReadLine();
+            result = InversionNumberWithLinq(inputNumber);
+            Console.WriteLine($"CON LINQ: El resultado inverso de {inputNumber} es {result}");
             Console.ReadLine();
         }
 
@@ -21,6 +25,18 @@ namespace InvertirNumero2Cifras
             for (int i = 0; i < listChars.Length; i++)
             {
                 result = result + listChars[(listChars.Length - 1) - i];
+            }
+            return result;
+        }
+
+        public static string InversionNumberWithLinq(string inputNumber)
+        {
+            string result = "";
+            var inputReverse = inputNumber.Reverse();
+            //REVERSE DE LINQ : Te da un Enumerable de chars no un string.
+            foreach (var element in inputReverse)
+            {
+                result += element;
             }
             return result;
         }

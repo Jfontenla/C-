@@ -1,0 +1,11 @@
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\obj\Debug\netcoreapp2.1\KATA-PuntuacionBolos.csprojAssemblyReference.cache
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\obj\Debug\netcoreapp2.1\KATA-PuntuacionBolos.csproj.CoreCompileInputs.cache
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\obj\Debug\netcoreapp2.1\KATA-PuntuacionBolos.AssemblyInfoInputs.cache
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\obj\Debug\netcoreapp2.1\KATA-PuntuacionBolos.AssemblyInfo.cs
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\bin\Debug\netcoreapp2.1\KATA-PuntuacionBolos.deps.json
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\bin\Debug\netcoreapp2.1\KATA-PuntuacionBolos.runtimeconfig.json
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\bin\Debug\netcoreapp2.1\KATA-PuntuacionBolos.runtimeconfig.dev.json
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\bin\Debug\netcoreapp2.1\KATA-PuntuacionBolos.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\bin\Debug\netcoreapp2.1\KATA-PuntuacionBolos.pdb
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\obj\Debug\netcoreapp2.1\KATA-PuntuacionBolos.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\PuntuacionBolos\obj\Debug\netcoreapp2.1\KATA-PuntuacionBolos.pdb

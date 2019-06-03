@@ -30,5 +30,6 @@ namespace XUnitTestEjercicosCSharp
                 var result = InvertirNumeros.InversionNumbersWithStrings("321");
                 Assert.Equal(result, "123");
             }
+        }
     }
 }

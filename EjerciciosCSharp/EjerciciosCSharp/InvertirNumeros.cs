@@ -8,7 +8,8 @@ namespace EjerciciosCSharp
         static void Main(string[] args)
         {
             //InvertirNumero();
-            LibreriaMath.StartLibreriaMath();
+            //LibreriaMath.StartLibreriaMath();
+            TipoDelChar.RealType();
 
         }
 

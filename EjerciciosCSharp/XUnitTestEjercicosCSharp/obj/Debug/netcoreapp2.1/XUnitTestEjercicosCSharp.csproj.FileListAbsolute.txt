@@ -1,0 +1,17 @@
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\obj\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.csprojAssemblyReference.cache
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\obj\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\obj\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.AssemblyInfoInputs.cache
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\obj\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.AssemblyInfo.cs
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.deps.json
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.runtimeconfig.json
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.runtimeconfig.dev.json
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.pdb
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.pdb
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\obj\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.csproj.CopyComplete
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\obj\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.dll
+C:\Users\jfontenl\C-\EjerciciosCSharp\XUnitTestEjercicosCSharp\obj\Debug\netcoreapp2.1\XUnitTestEjercicosCSharp.pdb

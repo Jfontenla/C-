@@ -19,3 +19,4 @@ C:\Repositorio\C-\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\Ejer
 C:\Repositorio\C-\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.runtimeconfig.dev.json
 C:\Repositorio\C-\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.dll
 C:\Repositorio\C-\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.pdb
+C:\Users\jfontenl\C-\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.csprojAssemblyReference.cache
